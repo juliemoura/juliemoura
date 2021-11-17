@@ -1,5 +1,6 @@
 ### Olá! Sou a Julie Moura :)
 
+  - Ciência da computação, CEFET/RJ
   - Hoje trabalho na área de suporte
   - Estudando HTML, CSS e JavaScript
 
