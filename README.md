@@ -1,6 +1,8 @@
 ### Olá! Sou a Julie Moura :)
 
-  - Ciência da computação, CEFET/RJ
+  Sou desenvolvedora de front-end com experiência em diversas tecnologias como o NextJS, Styled Components, RadixUI, Sass, Less, React Native, TypeScript, JavaScript, Figma, Adobe XD, UI Tools, Tailwind, CSS Modules e em metodologias de escrita do CSS, como BEM.
+  Além disso, crio conteúdos sobre programação com o intuito de trazer novas pessoas para a área e ajudá-las a cumprir seus objetivos. Acredito que a educação é a chave para o sucesso, e estou sempre empenhada em compartilhar meus conhecimentos com a comunidade e ajudar outras pessoas a crescerem em suas carreiras na área de tecnologia.
+
 
 <div align="center">
   <a href="https://github.com/juliemoura">
