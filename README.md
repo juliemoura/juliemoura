@@ -11,6 +11,14 @@
   
   📷 <a href="https://www.instagram.com/mouralie/">Instagram</a>
   
-  🎥 Youtube:
+  🎥 <a href="https://www.youtube.com/channel/UCitBalvK-jOE0rOiijL8dww">Youtube</a>
+  
+  👤 <a href="https://www.linkedin.com/in/juliemoura/">Linkedin</a>
 
+  
+  ### 🧠 Skills
+  
+  # React
+  # React Native
+  
 
