@@ -3,7 +3,7 @@
   Sou desenvolvedora de front-end com experiência em diversas tecnologias como o NextJS, Styled Components, RadixUI, Sass, Less, React Native, TypeScript, JavaScript, Figma, Adobe XD, UI Tools, Tailwind, CSS Modules e em metodologias de escrita do CSS, como BEM.
   Além disso, crio conteúdos sobre programação com o intuito de trazer novas pessoas para a área e ajudá-las a cumprir seus objetivos. Acredito que a educação é a chave para o sucesso, e estou sempre empenhada em compartilhar meus conhecimentos com a comunidade e ajudar outras pessoas a crescerem em suas carreiras na área de tecnologia.
 
-I am a front-end developer with experience in several technologies such as NextJS, Styled Components, RadixUI, Sass, Less, React Native, TypeScript, JavaScript, Figma, Adobe XD, UI Tools, Tailwind, CSS Modules and CSS writing methodologies , I eat well. In addition, I create content about programming in order to bring new people to the area and help them meet their goals. I believe that education is the key to success, and I am always committed to sharing my knowledge with the community and helping others grow in their technology careers.
+I am a front-end developer with experience in several technologies such as NextJS, Styled Components, RadixUI, Sass, Less, React Native, TypeScript, JavaScript, Figma, Adobe XD, UI Tools, Tailwind, CSS Modules and CSS writing methodologies, like BEM. In addition, I create content about programming in order to bring new people to the area and help them meet their goals. I believe that education is the key to success, and I am always committed to sharing my knowledge with the community and helping others grow in their technology careers.
 
 
 <div align="center">
