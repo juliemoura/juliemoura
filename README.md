@@ -20,5 +20,19 @@
   
   - React
   - React Native
-  
-
+  - NextJS
+  - Typescript, JavaScript;
+  - HTML, CSS;
+  - Styled Components;
+  - CMS (Prismic e Strapi);
+  - CSS preprocessors (SASS, LESS, CSS modules);
+  - UI Tools (MaterialUI, ChackraUI, Radix, Ant-Design);
+  - Tailwind, Stitches;
+  - Figma, Adobe XD;
+  - GitFlow;
+  - Development SPAs;
+  - Experience with mobile first development;
+  - Experience in Semantic HTML and Accessibility and SEO;
+  - Logical reasoning and programming logic;
+  - Scrum methodology and agile methods;
+  - Experience in prototyping with UI tools;
