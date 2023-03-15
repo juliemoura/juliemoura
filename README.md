@@ -18,7 +18,7 @@
   
   ### 🧠 Skills
   
-  # React
-  # React Native
+  - React
+  - React Native
   
 
