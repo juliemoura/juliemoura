@@ -1,3 +1,11 @@
+### Olá! Sou a Julie Moura :)
+
+  Sou desenvolvedora de front-end com experiência em diversas tecnologias como o NextJS, Styled Components, RadixUI, Sass, Less, React Native, TypeScript, JavaScript, Figma, Adobe XD, UI Tools, Tailwind, CSS Modules e em metodologias de escrita do CSS, como BEM.
+  Além disso, crio conteúdos sobre programação com o intuito de trazer novas pessoas para a área e ajudá-las a cumprir seus objetivos. Acredito que a educação é a chave para o sucesso, e estou sempre empenhada em compartilhar meus conhecimentos com a comunidade e ajudar outras pessoas a crescerem em suas carreiras na área de tecnologia.
+
+I am a front-end developer with experience in several technologies such as NextJS, Styled Components, RadixUI, Sass, Less, React Native, TypeScript, JavaScript, Figma, Adobe XD, UI Tools, Tailwind, CSS Modules and CSS writing methodologies, like BEM. In addition, I create content about programming in order to bring new people to the area and help them meet their goals. I believe that education is the key to success, and I am always committed to sharing my knowledge with the community and helping others grow in their technology careers.
+
+
 <div align="center">
   <a href="https://github.com/juliemoura">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliemoura&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
@@ -16,8 +24,11 @@
 
   ##
   
-<div> 
-  <a href="https://www.linkedin.com/in/juliemoura/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank"></a>
-    <a href="https://instagram.com/mouralie" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+### 👋 About me
+  I'm Julie Moura, a front-end developer. I create content about programming in order to bring new people to the area and help them fulfill their goals.
+  
+  📷 <a href="https://www.instagram.com/mouralie/">Instagram</a>
+  
+  🎥 Youtube:
 
-</div>
+
