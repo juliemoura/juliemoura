@@ -12,16 +12,31 @@ I enjoy transforming complex business requirements into intuitive and maintainab
 
 ### 🧠 Tech Stack & Skills
 
-* React, Next.js, React Native
-* TypeScript and JavaScript
-* HTML, CSS, Tailwind CSS
+### 🧠 Tech Stack & Skills
+
+* React.js, Next.js, React Native
+* TypeScript, JavaScript, PHP
+* Redux and global state management
+* HTML5, CSS3, Tailwind CSS
 * Styled Components, Stitches, CSS Modules, SASS, LESS
+* Design Systems and scalable component architecture
+* Storybook and reusable UI libraries
 * Material UI, Chakra UI, Radix UI, Ant Design
 * Responsive and Mobile-First development
-* Semantic HTML, Accessibility (a11y), and SEO
-* CMS integration with Prismic and Strapi
-* UI/UX implementation with Figma and Adobe XD
-* SPA development and reusable component architecture
-* API integration and enterprise systems
-* GitFlow, Scrum, and Agile methodologies
-* Strong problem-solving and clean code practices
+* Semantic HTML, Accessibility (a11y), and SEO best practices
+* Performance optimization with Lighthouse, PageSpeed, and Core Web Vitals
+* REST API integration, Axios, and dynamic data-driven interfaces
+* Strapi and Headless CMS architecture
+* Dashboard and SPA development
+* Figma and Adobe XD implementation
+* Clean Code and front-end architecture patterns
+* Git, GitFlow, NPM, and Agile/Scrum methodologies
+* Cross-functional collaboration with Design, Marketing, and Product teams
+* Experience with SAP and HCM integrated enterprise systems
+* Legacy system migration from Angular to React
+* Development of enterprise dashboards and financial platforms
+* Continuous integration between front-end and back-end systems
+* Experience building scalable payment and financial applications
+* UI standardization and platform modernization initiatives
+* Performance-focused landing pages optimized for conversion
+* Strong focus on maintainability, scalability, and user experience
