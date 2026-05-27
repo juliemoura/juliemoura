@@ -1,6 +1,6 @@
 ### 👋 About me
 
-Hi! I'm Julie Moura, a Full Stack Developer focused on building modern, scalable, and high-performance web applications. I have experience developing responsive interfaces, reusable component architectures, and integrating front-end applications with enterprise systems and APIs.
+Hi! I'm Julie Moura, a Senior Front End Developer focused on building modern, scalable, and high-performance web applications. I have experience developing responsive interfaces, reusable component architectures, and integrating front-end applications with enterprise systems and APIs.
 
 My main stack includes React, Next.js, TypeScript, and React Native, with strong focus on performance, accessibility, clean UI implementation, and user experience.
 
